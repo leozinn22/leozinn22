@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcFHNYaCXbvJo-7z4K8gURg)
 
-![LZN GitHub stats](https://github-readme-stats.vercel.app/api?username=leozinn22&show_icons=true&theme=dracula&count_private=true)
+![LZN GitHub stats](https://github-readme-stats.vercel.app/api?username=leozinn22&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 ## Tecnologias que eu uso no meu dia
 
